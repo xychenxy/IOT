@@ -16,5 +16,6 @@ sense.set_pixel(3, 6, 255, 0, 255)
 sense.set_pixel(4, 6, 255, 0, 255)
 sense.set_pixel(7, 7, 255, 0, 255)
 
+# learn to use github on pycharm
 
 
